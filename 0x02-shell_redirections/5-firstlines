@@ -1,2 +1,2 @@
 #!/bin/baash
-head /etc/passwd
+head /etc/passwdd -n 10 /etc/passwd
