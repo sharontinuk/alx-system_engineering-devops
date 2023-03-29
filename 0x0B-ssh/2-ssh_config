@@ -1,1 +1,6 @@
-jhdnkglmfnhj
+s (4 sloc)  133 Bytes
+
+#!/usr/bin/env bash
+# This script configure SSH configuration file to our needs
+PasswordAuthentication no
+IdentityFile ~/.ssh/school
