@@ -55,4 +55,4 @@ def count_words(subreddit, word_list, new_after='',
         return
 
     return count_words(subreddit, word_list,
-                       new_after, words_dict
+                       new_after, words_dict)
